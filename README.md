@@ -6,3 +6,4 @@
 Predict the likelihood of loan default by borrowers based on various features provided by Home Credit, such as credit history, client demographic information, and past transaction as well as credit card data.
 
 # Data Description: 
+
